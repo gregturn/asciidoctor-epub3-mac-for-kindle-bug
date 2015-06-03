@@ -1,0 +1,2 @@
+#!/bin/bash
+asciidoctor-epub3 -a ebook-format=kf8 --trace sample.adoc

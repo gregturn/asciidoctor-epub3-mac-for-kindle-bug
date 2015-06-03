@@ -1,0 +1,17 @@
+= Title of my book: Sub-title of my book
+Me <me@mickeymouse.com>
+:doctype: book
+:sectnums!:
+:toc:
+:toc-placement: preamble
+
+[abstract]
+This is a tiny sample that shows how Mac for Kindle crashes
+
+Do you dig asciidoctor? Me too. The thought of writing mobi and epub3 books is totally wicked.
+
+
+
+include::1.adoc[]
+
+include::2.adoc[]
