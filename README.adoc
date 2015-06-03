@@ -1,0 +1,8 @@
+To reproduce...
+
+1. Clone this repo
+2. ./build
+3. Open mobi file with Kindle for Mac
+4. Ka-blam!
+
+The mobi file reads just fine on my iPad Air 2 via DropBox.
